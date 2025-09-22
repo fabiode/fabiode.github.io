@@ -48,10 +48,10 @@
 
     <h1 class="text-3xl font-bold my-2">PEC da Blindagem (ou descubra seu Deputado Safado favorito)</h1>
 
-    <p class="my-2">
-      A PEC estabelece que qualquer ação penal contra parlamentares federais no Supremo Tribunal Federal (STF) deverá
+    <p class="my-2 italic">
+      "A PEC estabelece que qualquer ação penal contra parlamentares federais no Supremo Tribunal Federal (STF) deverá
       ter autorização prévia da respectiva Casa Legislativa, além de prever que prisões preventivas e medidas cautelares
-      também dependerão dessa autorização, salvo em flagrante de crimes inafiançáveis.
+      também dependerão dessa autorização, salvo em flagrante de crimes inafiançáveis."
       <a class="text-sm text-gray-500 underline"
         href="https://www.esquerdadiario.com.br/Veja-lista-de-deputados-do-PT-que-votaram-a-favor-da-PEC-da-Blindagem-com-o-Centrao-e-bolsonarismo#:~:text=A%20PEC%20estabelece,de%20crimes%20inafian%C3%A7%C3%A1veis.">Fonte:
         Esquerda Diário</a>
@@ -67,10 +67,13 @@
         columns: [
           {name: "Nome", width: "120px"},
           {name: "Partido", width: "70px"},
-          {name: "UF", width: "30px"},
-          {name: "1º Voto", width: "30px"},
-          {name: "2º Voto", width: "30px"}
+          {name: "UF", width: "36px"},
+          {name: "1º Voto", width: "36px"},
+          {name: "2º Voto", width: "36px"}
         ],
+        className: {
+          table: 'gridjs-table text-sm md:text-md'
+        },
         search: true,
         pagination: {enabled: false, limit: 500},
         fetch: "pec_blindagem.json",
