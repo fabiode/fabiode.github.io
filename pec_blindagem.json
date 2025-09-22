@@ -1,3586 +1,3586 @@
 [
   {
-    "name":"AJ Albuquerque",
-    "party":"PP",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "AJ Albuquerque",
+    "party": "PP",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Acácio Favacho",
-    "party":"MDB",
-    "state":"AP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Acácio Favacho",
+    "party": "MDB",
+    "state": "AP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Adail Filho",
-    "party":"Republicanos",
-    "state":"AM",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Adail Filho",
+    "party": "Republicanos",
+    "state": "AM",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Adilson Barroso",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Adilson Barroso",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Adolfo Viana",
-    "party":"PSDB",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Adolfo Viana",
+    "party": "PSDB",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Adriana Ventura",
-    "party":"Novo",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Adriana Ventura",
+    "party": "Novo",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Adriano do Baldy",
-    "party":"PP",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Adriano do Baldy",
+    "party": "PP",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Aécio Neves",
-    "party":"PSDB",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Aécio Neves",
+    "party": "PSDB",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Afonso Hamm",
-    "party":"PP",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Afonso Hamm",
+    "party": "PP",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Afonso Motta",
-    "party":"PDT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Ausente"
+    "name": "Afonso Motta",
+    "party": "PDT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Aguinaldo Ribeiro",
-    "party":"PP",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Aguinaldo Ribeiro",
+    "party": "PP",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Airton Faleiro",
-    "party":"PT",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Não"
+    "name": "Airton Faleiro",
+    "party": "PT",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Não"
   },
   {
-    "name":"Alberto Fraga",
-    "party":"PL",
-    "state":"DF",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Alberto Fraga",
+    "party": "PL",
+    "state": "DF",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Albuquerque",
-    "party":"Republicanos",
-    "state":"RR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Albuquerque",
+    "party": "Republicanos",
+    "state": "RR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Alceu Moreira",
-    "party":"MDB",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Alceu Moreira",
+    "party": "MDB",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Alencar Santana",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Alencar Santana",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Alex Manente",
-    "party":"Cidadania",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Alex Manente",
+    "party": "Cidadania",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Alex Santana",
-    "party":"Republicanos",
-    "state":"BA",
-    "first_vote":"Abstenção",
-    "second_vote":"Ausente"
+    "name": "Alex Santana",
+    "party": "Republicanos",
+    "state": "BA",
+    "first_vote": "Abstenção",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Alexandre Guimarãe",
-    "party":"MDB",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Alexandre Guimarãe",
+    "party": "MDB",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Alfredinho",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Alfredinho",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Alfredo Gaspar",
-    "party":"União",
-    "state":"AL",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Alfredo Gaspar",
+    "party": "União",
+    "state": "AL",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Alice Portugal",
-    "party":"PCdoB",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Alice Portugal",
+    "party": "PCdoB",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Aliel Machado",
-    "party":"PV",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Aliel Machado",
+    "party": "PV",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Aline Gurgel",
-    "party":"Republicanos",
-    "state":"AP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Aline Gurgel",
+    "party": "Republicanos",
+    "state": "AP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Allan Garcês",
-    "party":"PP",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Allan Garcês",
+    "party": "PP",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Altineu Côrtes",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Altineu Côrtes",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Aluisio Mendes",
-    "party":"Republicanos",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Aluisio Mendes",
+    "party": "Republicanos",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Amanda Gentil",
-    "party":"PP",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Amanda Gentil",
+    "party": "PP",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Amaro Neto",
-    "party":"Republicanos",
-    "state":"ES",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Amaro Neto",
+    "party": "Republicanos",
+    "state": "ES",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Amom Mandel",
-    "party":"Cidadania",
-    "state":"AM",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Amom Mandel",
+    "party": "Cidadania",
+    "state": "AM",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Ana Paula Leão",
-    "party":"PP",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ana Paula Leão",
+    "party": "PP",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ana Paula Lima",
-    "party":"PT",
-    "state":"SC",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Ana Paula Lima",
+    "party": "PT",
+    "state": "SC",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Ana Pimentel",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Ana Pimentel",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"André Abdon",
-    "party":"PP",
-    "state":"AP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "André Abdon",
+    "party": "PP",
+    "state": "AP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"André Fernandes",
-    "party":"PL",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "André Fernandes",
+    "party": "PL",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"André Ferreira",
-    "party":"PL",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "André Ferreira",
+    "party": "PL",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"André Figueiredo",
-    "party":"PDT",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "André Figueiredo",
+    "party": "PDT",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Andreia Siqueira",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Andreia Siqueira",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Antônia Lúcia",
-    "party":"Republicanos",
-    "state":"AC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Antônia Lúcia",
+    "party": "Republicanos",
+    "state": "AC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Antonio Andrade",
-    "party":"Republicanos",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Antonio Andrade",
+    "party": "Republicanos",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Antonio Brito",
-    "party":"PSD",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Antonio Brito",
+    "party": "PSD",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Antonio Carlos R.",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Antonio Carlos R.",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Antônio Doido",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Antônio Doido",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Any Ortiz",
-    "party":"Cidadania",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Any Ortiz",
+    "party": "Cidadania",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Arlindo Chinaglia",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Arlindo Chinaglia",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Arnaldo Jardim",
-    "party":"Cidadania",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Arnaldo Jardim",
+    "party": "Cidadania",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Arthur Lira",
-    "party":"PP",
-    "state":"AL",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Arthur Lira",
+    "party": "PP",
+    "state": "AL",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Arthur O. Maia",
-    "party":"União",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Arthur O. Maia",
+    "party": "União",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Átila Lins",
-    "party":"PSD",
-    "state":"AM",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Átila Lins",
+    "party": "PSD",
+    "state": "AM",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Átila Lira",
-    "party":"PP",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Átila Lira",
+    "party": "PP",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Augusto Coutinho",
-    "party":"Republicanos",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Augusto Coutinho",
+    "party": "Republicanos",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Aureo Ribeiro",
-    "party":"Solidariedade",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Aureo Ribeiro",
+    "party": "Solidariedade",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Bacelar",
-    "party":"PV",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Bacelar",
+    "party": "PV",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Baleia Rossi",
-    "party":"MDB",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Baleia Rossi",
+    "party": "MDB",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Bandeira de Mello",
-    "party":"PSB",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Bandeira de Mello",
+    "party": "PSB",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Bebeto",
-    "party":"PP",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Bebeto",
+    "party": "PP",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Benedita da Silva",
-    "party":"PT",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Benedita da Silva",
+    "party": "PT",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Benes Leocádio",
-    "party":"União",
-    "state":"RN",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Benes Leocádio",
+    "party": "União",
+    "state": "RN",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Beto Pereira",
-    "party":"PSDB",
-    "state":"MS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Beto Pereira",
+    "party": "PSDB",
+    "state": "MS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Beto Richa",
-    "party":"PSDB",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Beto Richa",
+    "party": "PSDB",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Bia Kicis",
-    "party":"PL",
-    "state":"DF",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Bia Kicis",
+    "party": "PL",
+    "state": "DF",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Bibo Nunes",
-    "party":"PL",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Bibo Nunes",
+    "party": "PL",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Bohn Gass",
-    "party":"PT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Bohn Gass",
+    "party": "PT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Bruno Farias",
-    "party":"Avante",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Bruno Farias",
+    "party": "Avante",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Bruno Ganem",
-    "party":"Podemos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Bruno Ganem",
+    "party": "Podemos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Caio Vianna",
-    "party":"PSD",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Caio Vianna",
+    "party": "PSD",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Camila Jara",
-    "party":"PT",
-    "state":"MS",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Camila Jara",
+    "party": "PT",
+    "state": "MS",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Cap. Alberto Neto",
-    "party":"PL",
-    "state":"AM",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Cap. Alberto Neto",
+    "party": "PL",
+    "state": "AM",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Capitão Alden",
-    "party":"PL",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Capitão Alden",
+    "party": "PL",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Capitão Augusto",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Capitão Augusto",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Carla Dickson",
-    "party":"União",
-    "state":"RN",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Carla Dickson",
+    "party": "União",
+    "state": "RN",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Carlos Gaguim",
-    "party":"União",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Carlos Gaguim",
+    "party": "União",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Carlos Jordy",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Carlos Jordy",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Carlos Sampaio",
-    "party":"PSD",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Carlos Sampaio",
+    "party": "PSD",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Carlos Veras",
-    "party":"PT",
-    "state":"PE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Carlos Veras",
+    "party": "PT",
+    "state": "PE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Carlos Zarattini",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Carlos Zarattini",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Carol Dartora",
-    "party":"PT",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Ausente"
+    "name": "Carol Dartora",
+    "party": "PT",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Caroline de Toni",
-    "party":"PL",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Caroline de Toni",
+    "party": "PL",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Castro Neto",
-    "party":"PSD",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Castro Neto",
+    "party": "PSD",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Cb Gilberto Silva",
-    "party":"PL",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Cb Gilberto Silva",
+    "party": "PL",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Cel. Chrisóstomo",
-    "party":"PL",
-    "state":"RO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Cel. Chrisóstomo",
+    "party": "PL",
+    "state": "RO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Célia Xakriabá",
-    "party":"PSOL",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Célia Xakriabá",
+    "party": "PSOL",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Célio Silveira",
-    "party":"MDB",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Célio Silveira",
+    "party": "MDB",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Célio Studart",
-    "party":"PSD",
-    "state":"CE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Célio Studart",
+    "party": "PSD",
+    "state": "CE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Celso Russomanno",
-    "party":"Republicanos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Celso Russomanno",
+    "party": "Republicanos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Cezinha Madureira",
-    "party":"PSD",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Cezinha Madureira",
+    "party": "PSD",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Charles Fernandes",
-    "party":"PSD",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Charles Fernandes",
+    "party": "PSD",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Chico Alencar",
-    "party":"PSOL",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Chico Alencar",
+    "party": "PSOL",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Chris Tonietto",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Chris Tonietto",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Clarissa Tércio",
-    "party":"PP",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Clarissa Tércio",
+    "party": "PP",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Claudio Cajado",
-    "party":"PP",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Claudio Cajado",
+    "party": "PP",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Cleber Verde",
-    "party":"MDB",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Cleber Verde",
+    "party": "MDB",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Clodoaldo Magalhãe",
-    "party":"PV",
-    "state":"PE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Clodoaldo Magalhãe",
+    "party": "PV",
+    "state": "PE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Cobalchini",
-    "party":"MDB",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Cobalchini",
+    "party": "MDB",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Coronel Assis",
-    "party":"União",
-    "state":"MT",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Coronel Assis",
+    "party": "União",
+    "state": "MT",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Coronel Fernanda",
-    "party":"PL",
-    "state":"MT",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Coronel Fernanda",
+    "party": "PL",
+    "state": "MT",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Coronel Meira",
-    "party":"PL",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Coronel Meira",
+    "party": "PL",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Coronel Ulysses",
-    "party":"União",
-    "state":"AC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Coronel Ulysses",
+    "party": "União",
+    "state": "AC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Covatti Filho",
-    "party":"PP",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Covatti Filho",
+    "party": "PP",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Cristiane Lopes",
-    "party":"União",
-    "state":"RO",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Cristiane Lopes",
+    "party": "União",
+    "state": "RO",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Da Vitoria",
-    "party":"PP",
-    "state":"ES",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Da Vitoria",
+    "party": "PP",
+    "state": "ES",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dagoberto Nogueira",
-    "party":"PSDB",
-    "state":"MS",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Dagoberto Nogueira",
+    "party": "PSDB",
+    "state": "MS",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Daiana Santos",
-    "party":"PCdoB",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Daiana Santos",
+    "party": "PCdoB",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Dal Barreto",
-    "party":"União",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dal Barreto",
+    "party": "União",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Damião Feliciano",
-    "party":"União",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Damião Feliciano",
+    "party": "União",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dandara",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Ausente"
+    "name": "Dandara",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Dani Cunha",
-    "party":"União",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dani Cunha",
+    "party": "União",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Daniel Agrobom",
-    "party":"PL",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Daniel Agrobom",
+    "party": "PL",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Daniel Almeida",
-    "party":"PCdoB",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Daniel Almeida",
+    "party": "PCdoB",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Daniel Barbosa",
-    "party":"PP",
-    "state":"AL",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Daniel Barbosa",
+    "party": "PP",
+    "state": "AL",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Daniel Freitas",
-    "party":"PL",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Daniel Freitas",
+    "party": "PL",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Daniel Trzeciak",
-    "party":"PSDB",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Daniel Trzeciak",
+    "party": "PSDB",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Daniela Reinehr",
-    "party":"PL",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Daniela Reinehr",
+    "party": "PL",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Daniela Waguinho",
-    "party":"União",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Não"
+    "name": "Daniela Waguinho",
+    "party": "União",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Não"
   },
   {
-    "name":"Danilo Forte",
-    "party":"União",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Danilo Forte",
+    "party": "União",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Danrlei",
-    "party":"PSD",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Danrlei",
+    "party": "PSD",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"David Soares",
-    "party":"União",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "David Soares",
+    "party": "União",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dayany Bittencourt",
-    "party":"União",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dayany Bittencourt",
+    "party": "União",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Def. Stélio Dener",
-    "party":"Republicanos",
-    "state":"RR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Def. Stélio Dener",
+    "party": "Republicanos",
+    "state": "RR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Del. Adriana A.",
-    "party":"PT",
-    "state":"GO",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Del. Adriana A.",
+    "party": "PT",
+    "state": "GO",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Del. Bruno Lima",
-    "party":"PP",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Del. Bruno Lima",
+    "party": "PP",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Del. Éder Mauro",
-    "party":"PL",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Del. Éder Mauro",
+    "party": "PL",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Del. Fabio Costa",
-    "party":"PP",
-    "state":"AL",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Del. Fabio Costa",
+    "party": "PP",
+    "state": "AL",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Del. Matheus L.",
-    "party":"União",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Del. Matheus L.",
+    "party": "União",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Delegada Ione",
-    "party":"Avante",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Delegada Ione",
+    "party": "Avante",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Delegada Katarina",
-    "party":"PSD",
-    "state":"SE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Delegada Katarina",
+    "party": "PSD",
+    "state": "SE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Delegado Bilynskyj",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Delegado Bilynskyj",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Delegado Caveira",
-    "party":"PL",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Delegado Caveira",
+    "party": "PL",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Delegado Marcelo",
-    "party":"União",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Delegado Marcelo",
+    "party": "União",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Delegado Palumbo",
-    "party":"MDB",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Delegado Palumbo",
+    "party": "MDB",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Delegado Ramagem",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Delegado Ramagem",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Delegado da Cunha",
-    "party":"PP",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Delegado da Cunha",
+    "party": "PP",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Denise Pessôa",
-    "party":"PT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Denise Pessôa",
+    "party": "PT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Detinha",
-    "party":"PL",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Detinha",
+    "party": "PL",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Diego Andrade",
-    "party":"PSD",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Diego Andrade",
+    "party": "PSD",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Diego Coronel",
-    "party":"PSD",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Diego Coronel",
+    "party": "PSD",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Diego Garcia",
-    "party":"Republicanos",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Diego Garcia",
+    "party": "Republicanos",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dilceu Sperafico",
-    "party":"PP",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dilceu Sperafico",
+    "party": "PP",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dilvanda Faro",
-    "party":"PT",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dilvanda Faro",
+    "party": "PT",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dimas Fabiano",
-    "party":"PP",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dimas Fabiano",
+    "party": "PP",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dimas Gadelha",
-    "party":"PT",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Dimas Gadelha",
+    "party": "PT",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Domingos Neto",
-    "party":"PSD",
-    "state":"CE",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Domingos Neto",
+    "party": "PSD",
+    "state": "CE",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Domingos Sávio",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Domingos Sávio",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dorinaldo Malafaia",
-    "party":"PDT",
-    "state":"AP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Dorinaldo Malafaia",
+    "party": "PDT",
+    "state": "AP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Douglas Viegas",
-    "party":"União",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Douglas Viegas",
+    "party": "União",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Doutor Luizinho",
-    "party":"PP",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Doutor Luizinho",
+    "party": "PP",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr Fernando Máximo",
-    "party":"União",
-    "state":"RO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr Fernando Máximo",
+    "party": "União",
+    "state": "RO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr Victor Linhalis",
-    "party":"Podemos",
-    "state":"ES",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr Victor Linhalis",
+    "party": "Podemos",
+    "state": "ES",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr. Francisco",
-    "party":"PT",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr. Francisco",
+    "party": "PT",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr. Frederico",
-    "party":"PRD",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr. Frederico",
+    "party": "PRD",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr. Ismael Alexand",
-    "party":"PSD",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr. Ismael Alexand",
+    "party": "PSD",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr. Jaziel",
-    "party":"PL",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr. Jaziel",
+    "party": "PL",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr. Luiz Ovando",
-    "party":"PP",
-    "state":"MS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr. Luiz Ovando",
+    "party": "PP",
+    "state": "MS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dr.Zacharias Calil",
-    "party":"União",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dr. Zacharias Calil",
+    "party": "União",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Dra. Alessandra H.",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Dra. Alessandra H.",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Duarte Jr.",
-    "party":"PSB",
-    "state":"MA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Duarte Jr.",
+    "party": "PSB",
+    "state": "MA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Duda Ramos",
-    "party":"MDB",
-    "state":"RR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Duda Ramos",
+    "party": "MDB",
+    "state": "RR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Duda Salabert",
-    "party":"PDT",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Duda Salabert",
+    "party": "PDT",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Eduardo Velloso",
-    "party":"União",
-    "state":"AC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Eduardo Velloso",
+    "party": "União",
+    "state": "AC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Eduardo da Fonte",
-    "party":"PP",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Eduardo da Fonte",
+    "party": "PP",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"EduardoBolsonaro",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Eduardo Bolsonaro",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Elcione Barbalho",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Elcione Barbalho",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Eli Borges",
-    "party":"PL",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Eli Borges",
+    "party": "PL",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Elmar Nascimento",
-    "party":"União",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Elmar Nascimento",
+    "party": "União",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ely Santos",
-    "party":"Republicanos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ely Santos",
+    "party": "Republicanos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Emanuel Pinheiro N",
-    "party":"MDB",
-    "state":"MT",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Emanuel Pinheiro N",
+    "party": "MDB",
+    "state": "MT",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Emidinho Madeira",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Emidinho Madeira",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Enf. Ana Paula",
-    "party":"Podemos",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Enf. Ana Paula",
+    "party": "Podemos",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Enfermeira Rejane",
-    "party":"PCdoB",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Enfermeira Rejane",
+    "party": "PCdoB",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Eriberto Medeiros",
-    "party":"PSB",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Eriberto Medeiros",
+    "party": "PSB",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Erika Hilton",
-    "party":"PSOL",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Erika Hilton",
+    "party": "PSOL",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Erika Kokay",
-    "party":"PT",
-    "state":"DF",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Erika Kokay",
+    "party": "PT",
+    "state": "DF",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Eros Biondini",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Eros Biondini",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Euclydes Pettersen",
-    "party":"Republicanos",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Euclydes Pettersen",
+    "party": "Republicanos",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Evair de Melo",
-    "party":"PP",
-    "state":"ES",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Evair de Melo",
+    "party": "PP",
+    "state": "ES",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fábio Macedo",
-    "party":"Podemos",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fábio Macedo",
+    "party": "Podemos",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fabio Reis",
-    "party":"PSD",
-    "state":"SE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Fabio Reis",
+    "party": "PSD",
+    "state": "SE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Fabio Schiochet",
-    "party":"União",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fabio Schiochet",
+    "party": "União",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fábio Teruel",
-    "party":"MDB",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fábio Teruel",
+    "party": "MDB",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fausto Pinato",
-    "party":"PP",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fausto Pinato",
+    "party": "PP",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fausto Santos Jr.",
-    "party":"União",
-    "state":"AM",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fausto Santos Jr.",
+    "party": "União",
+    "state": "AM",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Felipe Becari",
-    "party":"União",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Felipe Becari",
+    "party": "União",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Felipe Carreras",
-    "party":"PSB",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Felipe Carreras",
+    "party": "PSB",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Felipe Francischin",
-    "party":"União",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Felipe Francischin",
+    "party": "União",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Félix Mendonça Jr",
-    "party":"PDT",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Félix Mendonça Jr",
+    "party": "PDT",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fernanda Pessôa",
-    "party":"União",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fernanda Pessôa",
+    "party": "União",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"FernandaMelchionna",
-    "party":"PSOL",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Fernanda Melchionna",
+    "party": "PSOL",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Fernando Coelho",
-    "party":"União",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fernando Coelho",
+    "party": "União",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fernando Mineiro",
-    "party":"PT",
-    "state":"RN",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Fernando Mineiro",
+    "party": "PT",
+    "state": "RN",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Fernando Monteiro",
-    "party":"Republicanos",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fernando Monteiro",
+    "party": "Republicanos",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fernando Rodolfo",
-    "party":"PL",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fernando Rodolfo",
+    "party": "PL",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Filipe Barros",
-    "party":"PL",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Filipe Barros",
+    "party": "PL",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Filipe Martins",
-    "party":"PL",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Filipe Martins",
+    "party": "PL",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Flávia Morais",
-    "party":"PDT",
-    "state":"GO",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Flávia Morais",
+    "party": "PDT",
+    "state": "GO",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Flávio Nogueira",
-    "party":"PT",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Flávio Nogueira",
+    "party": "PT",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Florentino Neto",
-    "party":"PT",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Florentino Neto",
+    "party": "PT",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Franciane Bayer",
-    "party":"Republicanos",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Franciane Bayer",
+    "party": "Republicanos",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fred Costa",
-    "party":"PRD",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fred Costa",
+    "party": "PRD",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Fred Linhares",
-    "party":"Republicanos",
-    "state":"DF",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Fred Linhares",
+    "party": "Republicanos",
+    "state": "DF",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gabriel Mota",
-    "party":"Republicanos",
-    "state":"RR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gabriel Mota",
+    "party": "Republicanos",
+    "state": "RR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gabriel Nunes",
-    "party":"PSD",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gabriel Nunes",
+    "party": "PSD",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"General Girão",
-    "party":"PL",
-    "state":"RN",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "General Girão",
+    "party": "PL",
+    "state": "RN",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"General Pazuello",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "General Pazuello",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Geovania de Sá",
-    "party":"PSDB",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Geovania de Sá",
+    "party": "PSDB",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Geraldo Mendes",
-    "party":"União",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Geraldo Mendes",
+    "party": "União",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Geraldo Resende",
-    "party":"PSDB",
-    "state":"MS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Geraldo Resende",
+    "party": "PSDB",
+    "state": "MS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Gervásio Maia",
-    "party":"PSB",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gervásio Maia",
+    "party": "PSB",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Giacobo",
-    "party":"PL",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Giacobo",
+    "party": "PL",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gilberto Abramo",
-    "party":"Republicanos",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gilberto Abramo",
+    "party": "Republicanos",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"GilbertoNascimento",
-    "party":"PSD",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gilberto Nascimento",
+    "party": "PSD",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gilson Daniel",
-    "party":"Podemos",
-    "state":"ES",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Gilson Daniel",
+    "party": "Podemos",
+    "state": "ES",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Gilson Marques",
-    "party":"Novo",
-    "state":"SC",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Gilson Marques",
+    "party": "Novo",
+    "state": "SC",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Gilvan da Federal",
-    "party":"PL",
-    "state":"ES",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gilvan da Federal",
+    "party": "PL",
+    "state": "ES",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Giovani Cherini",
-    "party":"PL",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Giovani Cherini",
+    "party": "PL",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gisela Simona",
-    "party":"União",
-    "state":"MT",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gisela Simona",
+    "party": "União",
+    "state": "MT",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Glauber Braga",
-    "party":"PSOL",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Glauber Braga",
+    "party": "PSOL",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Greyce Elias",
-    "party":"Avante",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Greyce Elias",
+    "party": "Avante",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Guilherme Boulos",
-    "party":"PSOL",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Guilherme Boulos",
+    "party": "PSOL",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Guilherme Uchoa",
-    "party":"PSB",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Guilherme Uchoa",
+    "party": "PSB",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gustavo Gayer",
-    "party":"PL",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gustavo Gayer",
+    "party": "PL",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gustinho Ribeiro",
-    "party":"Republicanos",
-    "state":"SE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gustinho Ribeiro",
+    "party": "Republicanos",
+    "state": "SE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Gutemberg Reis",
-    "party":"MDB",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Gutemberg Reis",
+    "party": "MDB",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Heitor Schuch",
-    "party":"PSB",
-    "state":"RS",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Heitor Schuch",
+    "party": "PSB",
+    "state": "RS",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Helder Salomão",
-    "party":"PT",
-    "state":"ES",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Helder Salomão",
+    "party": "PT",
+    "state": "ES",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Helena Lima",
-    "party":"MDB",
-    "state":"RR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Helena Lima",
+    "party": "MDB",
+    "state": "RR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Helio Lopes",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Helio Lopes",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Henderson Pinto",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Henderson Pinto",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Hercílio Diniz",
-    "party":"MDB",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Hercílio Diniz",
+    "party": "MDB",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Hildo Rocha",
-    "party":"MDB",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Hildo Rocha",
+    "party": "MDB",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Hugo Leal",
-    "party":"PSD",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Hugo Leal",
+    "party": "PSD",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Hugo Motta",
-    "party":"Republicanos",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Hugo Motta",
+    "party": "Republicanos",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Icaro de Valmir",
-    "party":"PL",
-    "state":"SE",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Icaro de Valmir",
+    "party": "PL",
+    "state": "SE",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Igor Timo",
-    "party":"PSD",
-    "state":"MG",
-    "first_vote":"Ausente",
-    "second_vote":"Sim"
+    "name": "Igor Timo",
+    "party": "PSD",
+    "state": "MG",
+    "first_vote": "Ausente",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ismael",
-    "party":"PSD",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ismael",
+    "party": "PSD",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Isnaldo Bulhões Jr",
-    "party":"MDB",
-    "state":"AL",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Isnaldo Bulhões Jr",
+    "party": "MDB",
+    "state": "AL",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ivan Valente",
-    "party":"PSOL",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Ivan Valente",
+    "party": "PSOL",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Ivoneide Caetano",
-    "party":"PT",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Ivoneide Caetano",
+    "party": "PT",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Iza Arruda",
-    "party":"MDB",
-    "state":"PE",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Iza Arruda",
+    "party": "MDB",
+    "state": "PE",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Jack Rocha",
-    "party":"PT",
-    "state":"ES",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Jack Rocha",
+    "party": "PT",
+    "state": "ES",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Jadyel Alencar",
-    "party":"Republicanos",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Jadyel Alencar",
+    "party": "Republicanos",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Jandira Feghali",
-    "party":"PCdoB",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Jandira Feghali",
+    "party": "PCdoB",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Jeferson Rodrigues",
-    "party":"Republicanos",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Jeferson Rodrigues",
+    "party": "Republicanos",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Jefferson Campos",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Jefferson Campos",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Jilmar Tatto",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Jilmar Tatto",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"João Cury",
-    "party":"MDB",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "João Cury",
+    "party": "MDB",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"João Daniel",
-    "party":"PT",
-    "state":"SE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "João Daniel",
+    "party": "PT",
+    "state": "SE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"João Leão",
-    "party":"PP",
-    "state":"BA",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "João Leão",
+    "party": "PP",
+    "state": "BA",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"João Maia",
-    "party":"PP",
-    "state":"RN",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "João Maia",
+    "party": "PP",
+    "state": "RN",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"JoãoCarlosBacelar",
-    "party":"PL",
-    "state":"BA",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "João Carlos Bacelar",
+    "party": "PL",
+    "state": "BA",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Joaquim Passarinho",
-    "party":"PL",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Joaquim Passarinho",
+    "party": "PL",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Jonas Donizette",
-    "party":"PSB",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Jonas Donizette",
+    "party": "PSB",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Jorge Braz",
-    "party":"Republicanos",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Jorge Braz",
+    "party": "Republicanos",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Jorge Goetten",
-    "party":"Republicanos",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Jorge Goetten",
+    "party": "Republicanos",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Jorge Solla",
-    "party":"PT",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Jorge Solla",
+    "party": "PT",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"José Airton",
-    "party":"PT",
-    "state":"CE",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "José Airton",
+    "party": "PT",
+    "state": "CE",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"José Guimarães",
-    "party":"PT",
-    "state":"CE",
-    "first_vote":"Não",
-    "second_vote":"Ausente"
+    "name": "José Guimarães",
+    "party": "PT",
+    "state": "CE",
+    "first_vote": "Não",
+    "second_vote": "Ausente"
   },
   {
-    "name":"José Medeiros",
-    "party":"PL",
-    "state":"MT",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "José Medeiros",
+    "party": "PL",
+    "state": "MT",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"José Nelto",
-    "party":"União",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "José Nelto",
+    "party": "União",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"José Priante",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "José Priante",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"José Rocha",
-    "party":"União",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "José Rocha",
+    "party": "União",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Joseildo Ramos",
-    "party":"PT",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Joseildo Ramos",
+    "party": "PT",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Josenildo",
-    "party":"PDT",
-    "state":"AP",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Josenildo",
+    "party": "PDT",
+    "state": "AP",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Josias Gomes",
-    "party":"PT",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Josias Gomes",
+    "party": "PT",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"JosimarMaranhãozi",
-    "party":"PL",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Josimar Maranhãozi",
+    "party": "PL",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Josivaldo JP",
-    "party":"PSD",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Josivaldo JP",
+    "party": "PSD",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Juarez Costa",
-    "party":"MDB",
-    "state":"MT",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Juarez Costa",
+    "party": "MDB",
+    "state": "MT",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Julia Zanatta",
-    "party":"PL",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Julia Zanatta",
+    "party": "PL",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Juliana Cardoso",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Juliana Cardoso",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Julio Arcoverde",
-    "party":"PP",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Julio Arcoverde",
+    "party": "PP",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Júlio Cesar",
-    "party":"PSD",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Júlio Cesar",
+    "party": "PSD",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Julio Cesar Ribeir",
-    "party":"Republicanos",
-    "state":"DF",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Julio Cesar Ribeir",
+    "party": "Republicanos",
+    "state": "DF",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Julio Lopes",
-    "party":"PP",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Julio Lopes",
+    "party": "PP",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Juninho do Pneu",
-    "party":"União",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Juninho do Pneu",
+    "party": "União",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Junio Amaral",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Junio Amaral",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Júnior Ferrari",
-    "party":"PSD",
-    "state":"PA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Júnior Ferrari",
+    "party": "PSD",
+    "state": "PA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Junior Lourenço",
-    "party":"PL",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Junior Lourenço",
+    "party": "PL",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Júnior Mano",
-    "party":"PSB",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Júnior Mano",
+    "party": "PSB",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Juscelino Filho",
-    "party":"União",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Juscelino Filho",
+    "party": "União",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Keniston Braga",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Keniston Braga",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Kiko Celeguim",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Kiko Celeguim",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Kim Kataguiri",
-    "party":"União",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Kim Kataguiri",
+    "party": "União",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Lafayette Andrada",
-    "party":"Republicanos",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Lafayette Andrada",
+    "party": "Republicanos",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Laura Carneiro",
-    "party":"PSD",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Laura Carneiro",
+    "party": "PSD",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Lêda Borges",
-    "party":"PSDB",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Lêda Borges",
+    "party": "PSDB",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Lenir de Assis",
-    "party":"PT",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Lenir de Assis",
+    "party": "PT",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Leo Prates",
-    "party":"PDT",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Leo Prates",
+    "party": "PDT",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Leonardo Monteiro",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Não"
+    "name": "Leonardo Monteiro",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Não"
   },
   {
-    "name":"Leônidas Cristino",
-    "party":"PDT",
-    "state":"CE",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Leônidas Cristino",
+    "party": "PDT",
+    "state": "CE",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Leur Lomanto Jr.",
-    "party":"União",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Leur Lomanto Jr.",
+    "party": "União",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Lídice da Mata",
-    "party":"PSB",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Lídice da Mata",
+    "party": "PSB",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Lincoln Portela",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Lincoln Portela",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Lindbergh Farias",
-    "party":"PT",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Lindbergh Farias",
+    "party": "PT",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Lindenmeyer",
-    "party":"PT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Lindenmeyer",
+    "party": "PT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Lucas Ramos",
-    "party":"PSB",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Lucas Ramos",
+    "party": "PSB",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Lucas Redecker",
-    "party":"PSDB",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Lucas Redecker",
+    "party": "PSDB",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luciano Alves",
-    "party":"PSD",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luciano Alves",
+    "party": "PSD",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luciano Amaral",
-    "party":"PSD",
-    "state":"AL",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luciano Amaral",
+    "party": "PSD",
+    "state": "AL",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luciano Bivar",
-    "party":"União",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luciano Bivar",
+    "party": "União",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luciano Ducci",
-    "party":"PSB",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luciano Ducci",
+    "party": "PSB",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luciano Vieira",
-    "party":"Republicanos",
-    "state":"RJ",
-    "first_vote":"Ausente",
-    "second_vote":"Sim"
+    "name": "Luciano Vieira",
+    "party": "Republicanos",
+    "state": "RJ",
+    "first_vote": "Ausente",
+    "second_vote": "Sim"
   },
   {
-    "name":"Lucio Mosquini",
-    "party":"MDB",
-    "state":"RO",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Lucio Mosquini",
+    "party": "MDB",
+    "state": "RO",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Luis Carlos Gomes",
-    "party":"Republicanos",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luis Carlos Gomes",
+    "party": "Republicanos",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luis Tibé",
-    "party":"Avante",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luis Tibé",
+    "party": "Avante",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luisa Canziani",
-    "party":"PSD",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luisa Canziani",
+    "party": "PSD",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luiz Carlos Busato",
-    "party":"União",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luiz Carlos Busato",
+    "party": "União",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luiz Carlos Hauly",
-    "party":"Podemos",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luiz Carlos Hauly",
+    "party": "Podemos",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luiz Carlos Motta",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luiz Carlos Motta",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luiz Couto",
-    "party":"PT",
-    "state":"PB",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luiz Couto",
+    "party": "PT",
+    "state": "PB",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luiz F. Vampiro",
-    "party":"MDB",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luiz F. Vampiro",
+    "party": "MDB",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luiz Fernando",
-    "party":"PSD",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luiz Fernando",
+    "party": "PSD",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luiz Gastão",
-    "party":"PSD",
-    "state":"CE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luiz Gastão",
+    "party": "PSD",
+    "state": "CE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luiz Lima",
-    "party":"Novo",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luiz Lima",
+    "party": "Novo",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luiz Nishimori",
-    "party":"PSD",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luiz Nishimori",
+    "party": "PSD",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luiz P.O Bragança",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Luiz P.O Bragança",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"LuizAntônioCorrêa",
-    "party":"PP",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Luiz Antônio Corrêa",
+    "party": "PP",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Luiza Erundina",
-    "party":"PSOL",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Luiza Erundina",
+    "party": "PSOL",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Luizianne Lins",
-    "party":"PT",
-    "state":"CE",
-    "first_vote":"Não",
-    "second_vote":"Ausente"
+    "name": "Luizianne Lins",
+    "party": "PT",
+    "state": "CE",
+    "first_vote": "Não",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Lula da Fonte",
-    "party":"PP",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Lula da Fonte",
+    "party": "PP",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Magda Mofatto",
-    "party":"PRD",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Magda Mofatto",
+    "party": "PRD",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marangoni",
-    "party":"União",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marangoni",
+    "party": "União",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcel van Hattem",
-    "party":"Novo",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Marcel van Hattem",
+    "party": "Novo",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Marcelo Álvaro",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcelo Álvaro",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcelo Crivella",
-    "party":"Republicanos",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcelo Crivella",
+    "party": "Republicanos",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcelo Moraes",
-    "party":"PL",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcelo Moraes",
+    "party": "PL",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcio Alvino",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcio Alvino",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Márcio Biolchi",
-    "party":"MDB",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Márcio Biolchi",
+    "party": "MDB",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Márcio Honaiser",
-    "party":"PDT",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Márcio Honaiser",
+    "party": "PDT",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Márcio Jerry",
-    "party":"PCdoB",
-    "state":"MA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Márcio Jerry",
+    "party": "PCdoB",
+    "state": "MA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Márcio Marinho",
-    "party":"Republicanos",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Márcio Marinho",
+    "party": "Republicanos",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcon",
-    "party":"PT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Marcon",
+    "party": "PT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Marcos A. Sampaio",
-    "party":"PSD",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcos A. Sampaio",
+    "party": "PSD",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcos Pereira",
-    "party":"Republicanos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcos Pereira",
+    "party": "Republicanos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcos Pollon",
-    "party":"PL",
-    "state":"MS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcos Pollon",
+    "party": "PL",
+    "state": "MS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcos Soares",
-    "party":"União",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcos Soares",
+    "party": "União",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marcos Tavares",
-    "party":"PDT",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marcos Tavares",
+    "party": "PDT",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Maria Arraes",
-    "party":"Solidariedade",
-    "state":"PE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Maria Arraes",
+    "party": "Solidariedade",
+    "state": "PE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Maria Rosas",
-    "party":"Republicanos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Maria Rosas",
+    "party": "Republicanos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Maria do Rosário",
-    "party":"PT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Maria do Rosário",
+    "party": "PT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Mario Frias",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mario Frias",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mário Heringer",
-    "party":"PDT",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mário Heringer",
+    "party": "PDT",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mário Negromonte J",
-    "party":"PP",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mário Negromonte J",
+    "party": "PP",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marreca Filho",
-    "party":"PRD",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marreca Filho",
+    "party": "PRD",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marussa Boldrin",
-    "party":"MDB",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marussa Boldrin",
+    "party": "MDB",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Marx Beltrão",
-    "party":"PP",
-    "state":"AL",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Marx Beltrão",
+    "party": "PP",
+    "state": "AL",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Matheus Noronha",
-    "party":"PL",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Matheus Noronha",
+    "party": "PL",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Maurício Carva lho",
-    "party":"União",
-    "state":"RO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Maurício Carva lho",
+    "party": "União",
+    "state": "RO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mauricio Marcon",
-    "party":"Podemos",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mauricio Marcon",
+    "party": "Podemos",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mauricio Neves",
-    "party":"PP",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mauricio Neves",
+    "party": "PP",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mauricio do Vôlei",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mauricio do Vôlei",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"MauroBenevides Fo.",
-    "party":"PDT",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mauro Benevides Fo.",
+    "party": "PDT",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Max Lemos",
-    "party":"PDT",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Max Lemos",
+    "party": "PDT",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Meire Serafim",
-    "party":"União",
-    "state":"AC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Meire Serafim",
+    "party": "União",
+    "state": "AC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mendonça Filho",
-    "party":"União",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mendonça Filho",
+    "party": "União",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Merlong Solano",
-    "party":"PT",
-    "state":"PI",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Merlong Solano",
+    "party": "PT",
+    "state": "PI",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mersinho Lucena",
-    "party":"PP",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Mersinho Lucena",
+    "party": "PP",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Messias Donato",
-    "party":"Republicanos",
-    "state":"ES",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Messias Donato",
+    "party": "Republicanos",
+    "state": "ES",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Miguel Ângelo",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Ausente",
-    "second_vote":"Não"
+    "name": "Miguel Ângelo",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Ausente",
+    "second_vote": "Não"
   },
   {
-    "name":"Miguel Lombardi",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Miguel Lombardi",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Mis. José Olimpio",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Mis. José Olimpio",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Misael Varella",
-    "party":"PSD",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Misael Varella",
+    "party": "PSD",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Moses Rodrigues",
-    "party":"União",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Moses Rodrigues",
+    "party": "União",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Murillo Gouvea",
-    "party":"União",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Murillo Gouvea",
+    "party": "União",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Murilo Galdino",
-    "party":"Republicanos",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Murilo Galdino",
+    "party": "Republicanos",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Natália Bonavides",
-    "party":"PT",
-    "state":"RN",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Natália Bonavides",
+    "party": "PT",
+    "state": "RN",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Nelinho Freitas",
-    "party":"MDB",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Nelinho Freitas",
+    "party": "MDB",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Nelson Barbudo",
-    "party":"PL",
-    "state":"MT",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Nelson Barbudo",
+    "party": "PL",
+    "state": "MT",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Nely Aquino",
-    "party":"Podemos",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Nely Aquino",
+    "party": "Podemos",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Neto Carletto",
-    "party":"Avante",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Neto Carletto",
+    "party": "Avante",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Newton Cardoso Jr",
-    "party":"MDB",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Newton Cardoso Jr",
+    "party": "MDB",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Nicoletti",
-    "party":"União",
-    "state":"RR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Nicoletti",
+    "party": "União",
+    "state": "RR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Nikolas Ferreira",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Nikolas Ferreira",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Nilto Tatto",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Nilto Tatto",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Odair Cunha",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Odair Cunha",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Olival Marques",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Olival Marques",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Orlando Silva",
-    "party":"PCdoB",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Orlando Silva",
+    "party": "PCdoB",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Osmar Terra",
-    "party":"PL",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Osmar Terra",
+    "party": "PL",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ossesio Silva",
-    "party":"Republicanos",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ossesio Silva",
+    "party": "Republicanos",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Otoni de Paula",
-    "party":"MDB",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Otoni de Paula",
+    "party": "MDB",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Otto Alencar Filho",
-    "party":"PSD",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Otto Alencar Filho",
+    "party": "PSD",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Padovani",
-    "party":"União",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Padovani",
+    "party": "União",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Padre João",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Padre João",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Pastor Claudio Mar",
-    "party":"União",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pastor Claudio Mar",
+    "party": "União",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pastor Diniz",
-    "party":"União",
-    "state":"RR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pastor Diniz",
+    "party": "União",
+    "state": "RR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pastor Eurico",
-    "party":"PL",
-    "state":"PE",
-    "first_vote":"Ausente",
-    "second_vote":"Sim"
+    "name": "Pastor Eurico",
+    "party": "PL",
+    "state": "PE",
+    "first_vote": "Ausente",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pastor Gil",
-    "party":"PL",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pastor Gil",
+    "party": "PL",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pastor Henrique V.",
-    "party":"PSOL",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Pastor Henrique V.",
+    "party": "PSOL",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Pastor Isidório",
-    "party":"Avante",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Pastor Isidório",
+    "party": "Avante",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Patrus Ananias",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Patrus Ananias",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Pauderney Avelino",
-    "party":"União",
-    "state":"AM",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pauderney Avelino",
+    "party": "União",
+    "state": "AM",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulão",
-    "party":"PT",
-    "state":"AL",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Paulão",
+    "party": "PT",
+    "state": "AL",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Paulinho da Força",
-    "party":"Solidariedade",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulinho da Força",
+    "party": "Solidariedade",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo A. Barbosa",
-    "party":"PSDB",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Paulo A. Barbosa",
+    "party": "PSDB",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Paulo Abi-Ackel",
-    "party":"PSDB",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulo Abi-Ackel",
+    "party": "PSDB",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo Azi",
-    "party":"União",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulo Azi",
+    "party": "União",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo Folletto",
-    "party":"PSB",
-    "state":"ES",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulo Folletto",
+    "party": "PSB",
+    "state": "ES",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo Freire Costa",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulo Freire Costa",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo Guedes",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulo Guedes",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo Lemos",
-    "party":"PSOL",
-    "state":"AP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Paulo Lemos",
+    "party": "PSOL",
+    "state": "AP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Paulo Litro",
-    "party":"PSD",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulo Litro",
+    "party": "PSD",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo Magalhães",
-    "party":"PSD",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Paulo Magalhães",
+    "party": "PSD",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Paulo Pimenta",
-    "party":"PT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Paulo Pimenta",
+    "party": "PT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Pedro A ihara",
-    "party":"PRD",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pedro A ihara",
+    "party": "PRD",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pedro Campos",
-    "party":"PSB",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pedro Campos",
+    "party": "PSB",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pedro Lucas F.",
-    "party":"União",
-    "state":"MA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pedro Lucas F.",
+    "party": "União",
+    "state": "MA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pedro Lupion",
-    "party":"PP",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pedro Lupion",
+    "party": "PP",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pedro Paulo",
-    "party":"PSD",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pedro Paulo",
+    "party": "PSD",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pedro Uczai",
-    "party":"PT",
-    "state":"SC",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Pedro Uczai",
+    "party": "PT",
+    "state": "SC",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Pedro Westphalen",
-    "party":"PP",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pedro Westphalen",
+    "party": "PP",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pezenti",
-    "party":"MDB",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pezenti",
+    "party": "MDB",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pinheirinho",
-    "party":"PP",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pinheirinho",
+    "party": "PP",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Pompeo de Mattos",
-    "party":"PDT",
-    "state":"RS",
-    "first_vote":"Não",
-    "second_vote":"Ausente"
+    "name": "Pompeo de Mattos",
+    "party": "PDT",
+    "state": "RS",
+    "first_vote": "Não",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Pr.Marco Feliciano",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Pr. Marco Feliciano",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Prof Marcivania",
-    "party":"PCdoB",
-    "state":"AP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Prof Marcivania",
+    "party": "PCdoB",
+    "state": "AP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Prof. Reginaldo V.",
-    "party":"PV",
-    "state":"DF",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Prof. Reginaldo V.",
+    "party": "PV",
+    "state": "DF",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Professor Alcides",
-    "party":"PL",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Professor Alcides",
+    "party": "PL",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Professora Luciene",
-    "party":"PSOL",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Professora Luciene",
+    "party": "PSOL",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Rafael Brito",
-    "party":"MDB",
-    "state":"AL",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Rafael Brito",
+    "party": "MDB",
+    "state": "AL",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Rafael Fera",
-    "party":"Podemos",
-    "state":"RO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rafael Fera",
+    "party": "Podemos",
+    "state": "RO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rafael Prudente",
-    "party":"MDB",
-    "state":"DF",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rafael Prudente",
+    "party": "MDB",
+    "state": "DF",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rafael Simoes",
-    "party":"União",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rafael Simoes",
+    "party": "União",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Raimundo Costa",
-    "party":"Podemos",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Raimundo Costa",
+    "party": "Podemos",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Raimundo Santos",
-    "party":"PSD",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Raimundo Santos",
+    "party": "PSD",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Reginaldo Lopes",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Reginaldo Lopes",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Reimont",
-    "party":"PT",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Reimont",
+    "party": "PT",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Reinhold Stephanes",
-    "party":"PSD",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Reinhold Stephanes",
+    "party": "PSD",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Renata Abreu",
-    "party":"Podemos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Renata Abreu",
+    "party": "Podemos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Renilce Nicodemos",
-    "party":"MDB",
-    "state":"PA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Renilce Nicodemos",
+    "party": "MDB",
+    "state": "PA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Renildo Calheiros",
-    "party":"PCdoB",
-    "state":"PE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Renildo Calheiros",
+    "party": "PCdoB",
+    "state": "PE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Ribamar Silva",
-    "party":"PSD",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Ribamar Silva",
+    "party": "PSD",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Ricardo Abrão",
-    "party":"União",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ricardo Abrão",
+    "party": "União",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ricardo Ayres",
-    "party":"Republicanos",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ricardo Ayres",
+    "party": "Republicanos",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ricardo Barros",
-    "party":"PP",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ricardo Barros",
+    "party": "PP",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ricardo Guidi",
-    "party":"PL",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ricardo Guidi",
+    "party": "PL",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ricardo Maia",
-    "party":"MDB",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ricardo Maia",
+    "party": "MDB",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ricardo Salles",
-    "party":"Novo",
-    "state":"SP",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Ricardo Salles",
+    "party": "Novo",
+    "state": "SP",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Robério Monteiro",
-    "party":"PDT",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Robério Monteiro",
+    "party": "PDT",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Roberta Roma",
-    "party":"PL",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Roberta Roma",
+    "party": "PL",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Roberto Duarte",
-    "party":"Republicanos",
-    "state":"AC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Roberto Duarte",
+    "party": "Republicanos",
+    "state": "AC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Roberto Monteiro",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Roberto Monteiro",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Robinson Faria",
-    "party":"PP",
-    "state":"RN",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Robinson Faria",
+    "party": "PP",
+    "state": "RN",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rodolfo Nogueira",
-    "party":"PL",
-    "state":"MS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rodolfo Nogueira",
+    "party": "PL",
+    "state": "MS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rodrigo Estacho",
-    "party":"PSD",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rodrigo Estacho",
+    "party": "PSD",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rodrigo Gambale",
-    "party":"Podemos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rodrigo Gambale",
+    "party": "Podemos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rodrigo Rollemberg",
-    "party":"PSB",
-    "state":"DF",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Rodrigo Rollemberg",
+    "party": "PSB",
+    "state": "DF",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Rodrigo Valadares",
-    "party":"União",
-    "state":"SE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rodrigo Valadares",
+    "party": "União",
+    "state": "SE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rodrigo da Zaeli",
-    "party":"PL",
-    "state":"MT",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rodrigo da Zaeli",
+    "party": "PL",
+    "state": "MT",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rodrigo de Castro",
-    "party":"União",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rodrigo de Castro",
+    "party": "União",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rogéria Santos",
-    "party":"Republicanos",
-    "state":"BA",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rogéria Santos",
+    "party": "Republicanos",
+    "state": "BA",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rogério Correia",
-    "party":"PT",
-    "state":"MG",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Rogério Correia",
+    "party": "PT",
+    "state": "MG",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Romero Rodrigues",
-    "party":"Podemos",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Romero Rodrigues",
+    "party": "Podemos",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Ronaldo Nogueira",
-    "party":"Republicanos",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Ronaldo Nogueira",
+    "party": "Republicanos",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rosana Valle",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rosana Valle",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rosangela Moro",
-    "party":"União",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Rosangela Moro",
+    "party": "União",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Rosângela Reis",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Rosângela Reis",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Rubens Otoni",
-    "party":"PT",
-    "state":"GO",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Rubens Otoni",
+    "party": "PT",
+    "state": "GO",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Rubens Pereira Jr.",
-    "party":"PT",
-    "state":"MA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Rubens Pereira Jr.",
+    "party": "PT",
+    "state": "MA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Rui Falcão",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Rui Falcão",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Ruy Carneiro",
-    "party":"Podemos",
-    "state":"PB",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Ruy Carneiro",
+    "party": "Podemos",
+    "state": "PB",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Sâmia Bomfim",
-    "party":"PSOL",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Sâmia Bomfim",
+    "party": "PSOL",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Samuel Santos",
-    "party":"Podemos",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Samuel Santos",
+    "party": "Podemos",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Samuel Viana",
-    "party":"Republicanos",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Samuel Viana",
+    "party": "Republicanos",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Sanderson",
-    "party":"PL",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Sanderson",
+    "party": "PL",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Sargento Fahur",
-    "party":"PSD",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Sargento Fahur",
+    "party": "PSD",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Sargento Portugal",
-    "party":"Podemos",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Sargento Portugal",
+    "party": "Podemos",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Saulo Pedroso",
-    "party":"PSD",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Saulo Pedroso",
+    "party": "PSD",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Sergio Souza",
-    "party":"MDB",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Sergio Souza",
+    "party": "MDB",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Sgt. Gonçalves",
-    "party":"PL",
-    "state":"RN",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Sgt. Gonçalves",
+    "party": "PL",
+    "state": "RN",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Sidney Leite",
-    "party":"PSD",
-    "state":"AM",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Sidney Leite",
+    "party": "PSD",
+    "state": "AM",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Silas Câmara",
-    "party":"Republicanos",
-    "state":"AM",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Silas Câmara",
+    "party": "Republicanos",
+    "state": "AM",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Silvia Cristina",
-    "party":"PP",
-    "state":"RO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Silvia Cristina",
+    "party": "PP",
+    "state": "RO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Silvye Alves",
-    "party":"União",
-    "state":"GO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Silvye Alves",
+    "party": "União",
+    "state": "GO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Simone Marquetto",
-    "party":"MDB",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Simone Marquetto",
+    "party": "MDB",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Socorro Neri",
-    "party":"PP",
-    "state":"AC",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Socorro Neri",
+    "party": "PP",
+    "state": "AC",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Soraya Santos",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Soraya Santos",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Sóstenes Cavalcant",
-    "party":"PL",
-    "state":"RJ",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Sóstenes Cavalcant",
+    "party": "PL",
+    "state": "RJ",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Stefano Aguiar",
-    "party":"PSD",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Ausente"
+    "name": "Stefano Aguiar",
+    "party": "PSD",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Tabata Amaral",
-    "party":"PSB",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Tabata Amaral",
+    "party": "PSB",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Tadeu Veneri",
-    "party":"PT",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Tadeu Veneri",
+    "party": "PT",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Talíria Petrone",
-    "party":"PSOL",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Talíria Petrone",
+    "party": "PSOL",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Tarcísio Motta",
-    "party":"PSOL",
-    "state":"RJ",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Tarcísio Motta",
+    "party": "PSOL",
+    "state": "RJ",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Thiago Flores",
-    "party":"Republicanos",
-    "state":"RO",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Thiago Flores",
+    "party": "Republicanos",
+    "state": "RO",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Thiago de Joaldo",
-    "party":"PP",
-    "state":"SE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Thiago de Joaldo",
+    "party": "PP",
+    "state": "SE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Tiago Dimas",
-    "party":"Podemos",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Tiago Dimas",
+    "party": "Podemos",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Tião Medeiros",
-    "party":"PP",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Tião Medeiros",
+    "party": "PP",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Tiririca",
-    "party":"PL",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Tiririca",
+    "party": "PL",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"ToninhoWandscheer",
-    "party":"PP",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Toninho Wandscheer",
+    "party": "PP",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Túlio Gadêl ha",
-    "party":"Rede",
-    "state":"PE",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Túlio Gadêl ha",
+    "party": "Rede",
+    "state": "PE",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Valmir Assunção",
-    "party":"PT",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Valmir Assunção",
+    "party": "PT",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Vander Loubet",
-    "party":"PT",
-    "state":"MS",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Vander Loubet",
+    "party": "PT",
+    "state": "MS",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Vermelho",
-    "party":"PP",
-    "state":"PR",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Vermelho",
+    "party": "PP",
+    "state": "PR",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Vicentinho",
-    "party":"PT",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Vicentinho",
+    "party": "PT",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Vicentinho Júnior",
-    "party":"PP",
-    "state":"TO",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Vicentinho Júnior",
+    "party": "PP",
+    "state": "TO",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Vinicius Carvalho",
-    "party":"Republicanos",
-    "state":"SP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Vinicius Carvalho",
+    "party": "Republicanos",
+    "state": "SP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Vinicius Gurgel",
-    "party":"PL",
-    "state":"AP",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Vinicius Gurgel",
+    "party": "PL",
+    "state": "AP",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Vitor Lippi",
-    "party":"PSDB",
-    "state":"SP",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Vitor Lippi",
+    "party": "PSDB",
+    "state": "SP",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Waldemar Oliveira",
-    "party":"Avante",
-    "state":"PE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Waldemar Oliveira",
+    "party": "Avante",
+    "state": "PE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Waldenor Pereira",
-    "party":"PT",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Waldenor Pereira",
+    "party": "PT",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Weliton Prado",
-    "party":"Solidariedade",
-    "state":"MG",
-    "first_vote":"Ausente",
-    "second_vote":"Não"
+    "name": "Weliton Prado",
+    "party": "Solidariedade",
+    "state": "MG",
+    "first_vote": "Ausente",
+    "second_vote": "Não"
   },
   {
-    "name":"Wellington Roberto",
-    "party":"PL",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Wellington Roberto",
+    "party": "PL",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Welter",
-    "party":"PT",
-    "state":"PR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Welter",
+    "party": "PT",
+    "state": "PR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Wilson Santiago",
-    "party":"Republicanos",
-    "state":"PB",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Wilson Santiago",
+    "party": "Republicanos",
+    "state": "PB",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Yandra Moura",
-    "party":"União",
-    "state":"SE",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Yandra Moura",
+    "party": "União",
+    "state": "SE",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Yury do Paredão",
-    "party":"MDB",
-    "state":"CE",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Yury do Paredão",
+    "party": "MDB",
+    "state": "CE",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Zé Adriano",
-    "party":"PP",
-    "state":"AC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Zé Adriano",
+    "party": "PP",
+    "state": "AC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Zé Neto",
-    "party":"PT",
-    "state":"BA",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Zé Neto",
+    "party": "PT",
+    "state": "BA",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Zé Silva",
-    "party":"Solidariedade",
-    "state":"MG",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Zé Silva",
+    "party": "Solidariedade",
+    "state": "MG",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Zé Trovão",
-    "party":"PL",
-    "state":"SC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Zé Trovão",
+    "party": "PL",
+    "state": "SC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Zé Vitor",
-    "party":"PL",
-    "state":"MG",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Zé Vitor",
+    "party": "PL",
+    "state": "MG",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"ZéHaroldoCathedral",
-    "party":"PSD",
-    "state":"RR",
-    "first_vote":"Não",
-    "second_vote":"Não"
+    "name": "Zé Haroldo Cathedral",
+    "party": "PSD",
+    "state": "RR",
+    "first_vote": "Não",
+    "second_vote": "Não"
   },
   {
-    "name":"Zeca Dirceu",
-    "party":"PT",
-    "state":"PR",
-    "first_vote":"Ausente",
-    "second_vote":"Ausente"
+    "name": "Zeca Dirceu",
+    "party": "PT",
+    "state": "PR",
+    "first_vote": "Ausente",
+    "second_vote": "Ausente"
   },
   {
-    "name":"Zezinho Barbary",
-    "party":"PP",
-    "state":"AC",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Zezinho Barbary",
+    "party": "PP",
+    "state": "AC",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   },
   {
-    "name":"Zucco",
-    "party":"PL",
-    "state":"RS",
-    "first_vote":"Sim",
-    "second_vote":"Sim"
+    "name": "Zucco",
+    "party": "PL",
+    "state": "RS",
+    "first_vote": "Sim",
+    "second_vote": "Sim"
   }
 ]
