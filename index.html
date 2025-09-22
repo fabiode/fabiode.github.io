@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description"
+    content="Veja a lista completa dos deputados e partidos que votaram a favor da PEC da Blindagem. Pesquise, filtre e descubra como cada representante se posicionou.">
+  <meta name="keywords"
+    content="PEC da Blindagem, votação, deputados, partidos, votos, Congresso, Câmara, política brasileira">
+  <meta name="author" content="Seu Nome ou Projeto">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph for social media -->
+  <meta property="og:title" content="Quem votou a favor da PEC da Blindagem?">
+  <meta property="og:description"
+    content="Confira quem votou a favor da PEC da Blindagem. Explore a lista completa, filtre por estado ou partido e saiba como seu deputado votou.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://seudominio.com/pec-blindagem">
+  <meta property="og:image" content="https://seudominio.com/imagens/pec-blindagem.jpg">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Quem votou a favor da PEC da Blindagem?">
+  <meta name="twitter:description"
+    content="Descubra quais deputados votaram a favor da PEC da Blindagem. Lista completa com filtros e busca.">
+  <meta name="twitter:image" content="https://seudominio.com/imagens/pec-blindagem.jpg">
+  <title>Deputado Safado - PEC da Blindagem - Quem votou a favor da PEC da Blindagem?</title>
+  <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+  <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet">
+  <style>
+    th.gridjs-th {
+      padding: 10px !important;
+    }
+
+    td.gridjs-td {
+      word-wrap: break-word !important;
+      padding: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="main m-2 md:m-8 text-center sm:text-left">
+
+    <h1 class="text-3xl font-bold my-2">PEC da Blindagem (ou descubra seu Deputado Safado favorito)</h1>
+
+    <p class="my-2">
+      A PEC estabelece que qualquer ação penal contra parlamentares federais no Supremo Tribunal Federal (STF) deverá
+      ter autorização prévia da respectiva Casa Legislativa, além de prever que prisões preventivas e medidas cautelares
+      também dependerão dessa autorização, salvo em flagrante de crimes inafiançáveis.
+      <a class="text-sm text-gray-500 underline"
+        href="https://www.esquerdadiario.com.br/Veja-lista-de-deputados-do-PT-que-votaram-a-favor-da-PEC-da-Blindagem-com-o-Centrao-e-bolsonarismo#:~:text=A%20PEC%20estabelece,de%20crimes%20inafian%C3%A7%C3%A1veis.">Fonte:
+        Esquerda Diário</a>
+    </p>
+    <p class="my-2">
+      A intenção desse site é para que essa informação permaneça com fácil acesso para a posterioridade, sem paywalls ou
+      carregamento lento e <strong class="font-bold">SEM ANÚNCIOS</strong>.
+    </p>
+    <h3 class="text-2xl font-bold">Busque por Nome ou Voto sim, não, abstenção, ausente.</h3>
+    <div id="wrapper"></div>
+    <script>
+      new gridjs.Grid({
+        columns: [
+          {name: "Nome", width: "120px"},
+          {name: "Partido", width: "70px"},
+          {name: "UF", width: "30px"},
+          {name: "1º Voto", width: "30px"},
+          {name: "2º Voto", width: "30px"}
+        ],
+        search: true,
+        pagination: {enabled: false, limit: 500},
+        fetch: "pec_blindagem.json",
+        language: {
+          'search': {
+            'placeholder': 'Busque aqui...',
+          },
+          'pagination': {
+            'previous': '⬅️',
+            'next': '➡️',
+            'showing': '😃 Mostrando',
+            'results': () => 'Resultados'
+          }
+        },
+        server: {
+          url: "pec_blindagem.json",
+          then: data => data.map(row => [
+            row.name, row.party, row.state, row.first_vote, row.second_vote
+          ])
+        }
+      }).render(document.getElementById("wrapper"));
+    </script>
+  </div>
+</body>
+
+</html>
