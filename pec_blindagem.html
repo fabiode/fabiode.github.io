@@ -8,14 +8,14 @@
   <meta name="description"
     content="Veja a lista completa dos deputados e partidos que votaram a favor da PEC da Blindagem. Pesquise, filtre e descubra como cada representante se posicionou.">
   <meta name="keywords"
-    content="PEC da Dosimetria, votação, deputados, partidos, votos, Congresso, Câmara, política brasileira">
-  <meta name="author" content="Seu Nome ou Projeto">
+    content="PEC da Blindagem, votação, deputados, partidos, votos, Congresso, Câmara, política brasileira">
+  <meta name="author" content="Deputado Safado">
   <meta name="robots" content="index, follow">
 
   <!-- Open Graph for social media -->
-  <meta property="og:title" content="Quem votou a favor da PL da Dosimetria?">
+  <meta property="og:title" content="Quem votou a favor da PEC da Blindagem?">
   <meta property="og:description"
-    content="Confira quem votou a favor da PL da Dosimetria. Explore a lista completa, filtre por estado ou partido e saiba como seu deputado votou.">
+    content="Confira quem votou a favor da PEC da Blindagem. Explore a lista completa, filtre por estado ou partido e saiba como seu deputado votou.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://seudominio.com/pec-blindagem">
   <meta property="og:image" content="https://seudominio.com/imagens/pec-blindagem.jpg">
@@ -26,7 +26,7 @@
   <meta name="twitter:description"
     content="Descubra quais deputados votaram a favor da PEC da Blindagem. Lista completa com filtros e busca.">
   <meta name="twitter:image" content="https://seudominio.com/imagens/pec-blindagem.jpg">
-  <title>Deputado Safado - PL da Dosimetria - Quem votou a favor do PL da Dosimetria?</title>
+  <title>Deputado Safado - PEC da Blindagem - Quem votou a favor da PEC da Blindagem?</title>
   <script src="https://unpkg.com/gridjs/dist/gridjs.umd.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
   <link href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css" rel="stylesheet">
@@ -46,16 +46,15 @@
 
   <div class="main m-2 md:m-8 text-center sm:text-left">
 
-    <h1 class="text-3xl font-bold my-2">PL da Dosimetria (ou descubra seu Deputado Safado favorito)</h1>
+    <h1 class="text-3xl font-bold my-2">PL da Blindagem (ou descubra seu Deputado Safado favorito)</h1>
 
     <p class="my-2 italic">
-      <strong class="font-bold">O projeto de lei reduz penas por tipo de condenação.</strong>
-      No caso de Bolsonaro, a pena seria reduzida a 50%, já que ele foi condenado, entre outros crimes, por liderar
-      organização criminosa. Com isso, ele teria de cumprir uma pena de 13 anos e teria direito a progressão de regime
-      com dois anos.
-      <a class="text-sm text-blue-500 underline"
-        href="https://noticias.uol.com.br/politica/ultimas-noticias/2025/12/10/camara-dos-deputados-dosimetria-bolsonaro-81-como-votaram-deputados.htm">
-        Fonte: UOL</a>
+      "A PEC estabelece que qualquer ação penal contra parlamentares federais no Supremo Tribunal Federal (STF) deverá
+      ter autorização prévia da respectiva Casa Legislativa, além de prever que prisões preventivas e medidas cautelares
+      também dependerão dessa autorização, salvo em flagrante de crimes inafiançáveis."
+      <a class="text-sm text-gray-500 underline"
+        href="https://www.esquerdadiario.com.br/Veja-lista-de-deputados-do-PT-que-votaram-a-favor-da-PEC-da-Blindagem-com-o-Centrao-e-bolsonarismo#:~:text=A%20PEC%20estabelece,de%20crimes%20inafian%C3%A7%C3%A1veis.">Fonte:
+        Esquerda Diário</a>
     </p>
     <p class="my-2">
       A intenção desse site é para que essa informação permaneça facilmente acessível para a posteridade,
@@ -63,10 +62,9 @@
     </p>
 
     <p>
-      Para ver os votos da PEC da Blindagem,
-      <a class="text-blue-500 underline" href="pec_blindagem.html">clique aqui.</a>
+      Para ver os votos da PL da Dosimetria,
+      <a class="text-blue-500 underline" href="//">clique aqui.</a>
     </p>
-
     <h3 class="text-2xl font-bold">Busque por Nome ou Voto sim, não, abstenção, ausente.</h3>
     <div id="wrapper"></div>
     <script>
@@ -75,7 +73,8 @@
           {name: "Nome", width: "120px"},
           {name: "Partido", width: "64px"},
           {name: "UF", width: "36px"},
-          {name: "Voto", width: "40px"},
+          {name: "1º Voto", width: "40px"},
+          {name: "2º Voto", width: "40px"}
         ],
         className: {
           table: 'gridjs-table text-sm md:text-md'
@@ -95,9 +94,9 @@
           }
         },
         server: {
-          url: "pl_dosimetria.json",
+          url: "pec_blindagem.json",
           then: data => data.map(row => [
-            row.name, row.party, row.state, row.first_vote
+            row.name, row.party, row.state, row.first_vote, row.second_vote
           ])
         }
       }).render(document.getElementById("wrapper"));
